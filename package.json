@@ -1,0 +1,17 @@
+{
+  "name": "crud-node-express",
+  "version": "1.0.0",
+  "description": "Basic crud with node, express and mongo db",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
